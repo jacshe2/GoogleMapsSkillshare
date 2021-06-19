@@ -1,0 +1,26 @@
+body {
+	background-color: #F5F5F5;
+	max-width: 1600px;
+	margin: 0 auto;
+}
+
+.header {
+	width: 100%;
+    text-align: center;
+	background-color: #308014;
+	padding: 10px;
+    margin-bottom: 10px;
+	color: #F5F5F5;
+    border: 5px;
+    border-style: solid;
+    border-color: grey;
+}
+
+#map {
+	width: 70%;
+    height: 400px;
+    margin: 0 auto;
+    border: 6px;
+    border-style: solid;
+    border-color: #FFD700;
+}
